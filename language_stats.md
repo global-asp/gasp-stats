@@ -6,12 +6,12 @@ zh | 57
 yue | 35
 no | 26
 nn | 21
+gu | 14
 eo | 13
 fa | 12
-es | 9
-gu | 8
-da | 5
+es | 10
 hi | 5
+da | 5
 sv | 5
 ja | 4
 jam | 3
