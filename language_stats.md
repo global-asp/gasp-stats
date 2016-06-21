@@ -9,7 +9,7 @@ no | 26
 nn | 21
 eo | 13
 fa | 12
-es | 10
+es | 11
 sv | 5
 da | 5
 hi | 5
