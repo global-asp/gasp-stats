@@ -4,7 +4,7 @@ Language | # of Stories
 -------- | ------------
 zh | 57
 yue | 35
-gu | 32
+gu | 33
 no | 26
 nn | 21
 es | 14
