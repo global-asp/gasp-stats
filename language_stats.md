@@ -2,7 +2,7 @@
 
 Language | # of Stories
 -------- | ------------
-zh | 57
+zh | 56
 yue | 35
 gu | 33
 no | 26
@@ -14,14 +14,15 @@ ar | 6
 sv | 5
 hi | 5
 da | 5
-de | 4
 ja | 4
-ne | 3
+de | 4
 jam | 3
+ne | 3
 or | 2
 aeb | 2
 ms | 1
-tl | 1
+bn | 1
+ko | 1
 it | 1
 ru | 1
-bn | 1
+tl | 1
