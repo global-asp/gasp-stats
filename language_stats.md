@@ -18,11 +18,11 @@ ja | 4
 de | 4
 jam | 3
 ne | 3
+tl | 2
 or | 2
+ko | 2
 aeb | 2
 ms | 1
-bn | 1
-ko | 1
 it | 1
 ru | 1
-tl | 1
+bn | 1
