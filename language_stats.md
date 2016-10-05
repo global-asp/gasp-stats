@@ -8,12 +8,12 @@ gu | 33
 no | 26
 nn | 21
 ko | 16
+tl | 15
 es | 14
 eo | 13
 fa | 12
 ar | 6
 da | 5
-tl | 5
 hi | 5
 sv | 5
 de | 4
