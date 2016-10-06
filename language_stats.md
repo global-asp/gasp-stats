@@ -7,8 +7,8 @@ yue | 35
 gu | 33
 no | 26
 nn | 21
+tl | 20
 ko | 16
-tl | 15
 es | 14
 eo | 13
 fa | 12
