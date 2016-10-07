@@ -5,8 +5,8 @@ Language | # of Stories
 zh | 56
 yue | 35
 gu | 33
+tl | 32
 ko | 32
-tl | 30
 no | 26
 nn | 21
 es | 14
