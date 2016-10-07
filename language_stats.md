@@ -3,9 +3,9 @@
 Language | # of Stories
 -------- | ------------
 zh | 56
+tl | 43
 yue | 35
 gu | 33
-tl | 32
 ko | 32
 no | 26
 nn | 21
