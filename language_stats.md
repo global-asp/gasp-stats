@@ -7,7 +7,7 @@ tl | 43
 yue | 35
 gu | 33
 ko | 32
-no | 26
+no | 27
 nn | 21
 es | 14
 eo | 13
