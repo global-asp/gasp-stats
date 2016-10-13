@@ -2,12 +2,12 @@
 
 Language | # of Stories
 -------- | ------------
-zh | 57
+zh | 59
 tl | 43
 yue | 35
 gu | 33
 ko | 32
-no | 28
+no | 29
 nn | 21
 es | 14
 eo | 13
