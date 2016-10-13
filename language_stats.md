@@ -22,6 +22,7 @@ ja | 4
 ne | 3
 jam | 3
 or | 2
+nl | 2
 aeb | 2
 ms | 1
 bn | 1
