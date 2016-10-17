@@ -12,7 +12,7 @@ nn | 21
 es | 14
 eo | 13
 fa | 12
-pa | 8
+pa | 11
 nl | 8
 ar | 6
 da | 5
