@@ -2,7 +2,7 @@
 
 Language | # of Stories
 -------- | ------------
-zh | 71
+zh | 77
 tl | 43
 ko | 38
 yue | 35
