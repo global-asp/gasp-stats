@@ -9,15 +9,15 @@ yue | 35
 gu | 33
 no | 32
 nn | 21
+pa | 14
 es | 14
-pa | 13
 eo | 13
 fa | 12
 nl | 8
 ar | 6
 da | 5
-hi | 5
 sv | 5
+hi | 5
 de | 4
 ja | 4
 ne | 3
