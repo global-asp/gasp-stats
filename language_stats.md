@@ -9,7 +9,7 @@ yue | 35
 gu | 33
 no | 32
 nn | 21
-pa | 14
+pa | 17
 es | 14
 eo | 13
 fa | 12
