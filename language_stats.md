@@ -10,15 +10,15 @@ gu | 33
 no | 32
 nn | 21
 pa | 20
+de | 15
 es | 14
 eo | 13
 fa | 12
 nl | 8
 ar | 6
+hi | 5
 da | 5
 sv | 5
-hi | 5
-de | 4
 ja | 4
 ne | 3
 jam | 3
