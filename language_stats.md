@@ -10,8 +10,8 @@ gu | 33
 no | 32
 nn | 21
 pa | 20
+de | 15
 es | 14
-de | 14
 eo | 13
 fa | 12
 nl | 8
