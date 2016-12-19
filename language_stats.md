@@ -16,7 +16,7 @@ eo | 13
 fa | 12
 nl | 8
 ar | 6
-hi | 5
+hi | 6
 da | 5
 sv | 5
 ja | 4
