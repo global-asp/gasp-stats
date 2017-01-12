@@ -1,7 +1,7 @@
 # Current Statistics - Global African Storybook Project
 
-* There are currently **402** translations in **26** languages
-* These translations are based on **89** unique source stories from the [African Storybook](http://www.africanstorybook.org/)
+* There are currently **421** translations in **26** languages
+* These translations are based on **96** unique source stories from the [African Storybook](http://www.africanstorybook.org/)
 
 You can view the [list of translations](https://global-asp.github.io/stories/) on the [Global ASP website](https://global-asp.github.io/).
 
