@@ -6,8 +6,9 @@ zh | 77
 tl | 44
 ko | 38
 yue | 35
-no | 33
 gu | 33
+no | 33
+ar | 29
 nn | 21
 pa | 20
 aeb | 16
@@ -15,7 +16,6 @@ de | 15
 es | 14
 eo | 13
 fa | 12
-ar | 10
 nl | 8
 hi | 6
 da | 5
