@@ -6,8 +6,8 @@ zh | 77
 tl | 44
 ko | 38
 yue | 35
+no | 34
 gu | 33
-no | 33
 ar | 31
 nn | 21
 pa | 20
