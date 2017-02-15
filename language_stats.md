@@ -9,8 +9,8 @@ yue | 35
 no | 34
 gu | 33
 ar | 31
+pa | 30
 nn | 21
-pa | 20
 aeb | 16
 de | 15
 es | 14
