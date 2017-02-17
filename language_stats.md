@@ -8,8 +8,8 @@ ko | 41
 yue | 35
 no | 34
 gu | 33
+pa | 31
 ar | 31
-pa | 30
 nn | 21
 aeb | 16
 de | 15
