@@ -5,9 +5,9 @@ Language | # of Stories
 zh | 77
 tl | 44
 ko | 41
+pa | 35
 yue | 35
 no | 34
-pa | 34
 gu | 33
 ar | 31
 nn | 21
