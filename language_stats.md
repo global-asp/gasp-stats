@@ -5,11 +5,11 @@ Language | # of Stories
 zh | 77
 tl | 44
 ko | 41
+ar | 38
 pa | 35
 yue | 35
 no | 34
 gu | 33
-ar | 31
 nn | 21
 aeb | 16
 de | 15
