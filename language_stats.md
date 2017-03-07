@@ -6,7 +6,7 @@ zh | 77
 tl | 44
 ko | 41
 ar | 41
-pa | 39
+pa | 40
 yue | 35
 no | 34
 gu | 33
