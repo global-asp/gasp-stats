@@ -2,18 +2,18 @@
 
 Language | # of Stories
 -------- | ------------
-zh | 77
+zh | 78
 tl | 44
-ko | 41
 ar | 41
+ko | 41
 pa | 40
 yue | 35
 no | 34
 gu | 33
 nn | 21
+es | 19
 aeb | 16
 de | 15
-es | 14
 eo | 13
 fa | 12
 nl | 8
