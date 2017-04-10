@@ -10,8 +10,8 @@ pa | 40
 yue | 35
 no | 34
 gu | 33
+es | 21
 nn | 21
-es | 19
 aeb | 16
 de | 15
 eo | 13
