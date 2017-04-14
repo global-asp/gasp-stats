@@ -9,8 +9,8 @@ ko | 41
 pa | 40
 yue | 35
 no | 34
+es | 34
 gu | 33
-es | 21
 nn | 21
 aeb | 16
 de | 15
