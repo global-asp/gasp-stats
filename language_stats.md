@@ -4,12 +4,12 @@ Language | # of Stories
 -------- | ------------
 zh | 78
 tl | 44
-ar | 41
+es | 41
 ko | 41
+ar | 41
 pa | 40
 yue | 35
 no | 34
-es | 34
 gu | 33
 nn | 21
 aeb | 16
