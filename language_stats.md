@@ -3,8 +3,8 @@
 Language | # of Stories
 -------- | ------------
 zh | 78
+es | 47
 tl | 44
-es | 41
 ko | 41
 ar | 41
 pa | 40
