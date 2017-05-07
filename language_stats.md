@@ -5,7 +5,7 @@ Language | # of Stories
 zh | 78
 es | 47
 tl | 44
-ko | 41
+ko | 42
 ar | 41
 pa | 40
 yue | 35
@@ -27,4 +27,5 @@ or | 2
 bn | 1
 ms | 1
 ru | 1
+vi | 1
 it | 1
