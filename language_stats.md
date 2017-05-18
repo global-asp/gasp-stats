@@ -3,19 +3,19 @@
 Language | # of Stories
 -------- | ------------
 zh | 78
+fa | 49
 es | 47
 tl | 44
 ko | 42
 ar | 41
 pa | 40
 yue | 35
+gu | 34
 no | 34
-gu | 33
 nn | 21
 aeb | 16
 de | 15
 eo | 13
-fa | 12
 nl | 8
 hi | 6
 da | 5
