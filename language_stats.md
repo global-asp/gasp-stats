@@ -9,8 +9,8 @@ tl | 44
 ko | 42
 ar | 41
 pa | 40
+gu | 37
 yue | 35
-gu | 34
 no | 34
 nn | 21
 aeb | 16
