@@ -6,7 +6,7 @@ zh | 78
 fa | 49
 es | 47
 tl | 44
-yue | 43
+yue | 44
 ko | 42
 ar | 41
 pa | 40
