@@ -5,8 +5,8 @@ Language | # of Stories
 zh | 78
 fa | 49
 es | 47
+yue | 46
 tl | 44
-yue | 44
 ko | 42
 ar | 41
 pa | 40
