@@ -16,10 +16,10 @@ nn | 21
 aeb | 16
 de | 15
 eo | 13
+tr | 10
 nl | 8
 hi | 6
 da | 5
-tr | 5
 sv | 5
 ru | 4
 ja | 4
