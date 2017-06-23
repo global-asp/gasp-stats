@@ -16,12 +16,12 @@ nn | 21
 aeb | 16
 de | 15
 eo | 13
+ru | 10
 tr | 10
 nl | 8
 hi | 6
 da | 5
 sv | 5
-ru | 4
 ja | 4
 ne | 3
 jam | 3
