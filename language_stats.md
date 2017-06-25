@@ -16,8 +16,8 @@ nn | 21
 aeb | 16
 de | 15
 eo | 13
-ru | 10
-tr | 10
+ru | 12
+tr | 11
 nl | 8
 hi | 6
 da | 5
