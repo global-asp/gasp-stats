@@ -13,9 +13,9 @@ pa | 40
 gu | 37
 no | 35
 nn | 21
-aeb | 16
+aeb | 17
+ru | 16
 de | 15
-ru | 15
 tr | 14
 eo | 13
 nl | 8
