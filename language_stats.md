@@ -16,6 +16,7 @@ nn | 21
 aeb | 17
 ru | 16
 de | 15
+vi | 14
 tr | 14
 eo | 13
 nl | 8
@@ -23,11 +24,10 @@ hi | 6
 da | 5
 sv | 5
 ja | 4
-ne | 3
 jam | 3
-or | 2
+ne | 3
 uk | 2
+or | 2
 bn | 1
 it | 1
-vi | 1
 ms | 1
