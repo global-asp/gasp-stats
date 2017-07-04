@@ -13,10 +13,10 @@ pa | 40
 gu | 37
 no | 35
 nn | 21
+vi | 18
 aeb | 17
 ru | 16
 de | 15
-vi | 14
 tr | 14
 eo | 13
 nl | 8
