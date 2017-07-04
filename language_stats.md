@@ -13,7 +13,7 @@ pa | 40
 gu | 37
 no | 35
 nn | 21
-vi | 18
+vi | 20
 aeb | 17
 ru | 16
 de | 15
