@@ -16,7 +16,7 @@ nn | 21
 vi | 20
 aeb | 17
 ru | 16
-de | 15
+de | 16
 tr | 14
 eo | 13
 nl | 8
