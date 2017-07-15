@@ -22,6 +22,7 @@ eo | 13
 nl | 8
 hi | 6
 da | 5
+it | 5
 sv | 5
 ja | 5
 jam | 3
@@ -29,5 +30,4 @@ ne | 3
 uk | 2
 or | 2
 bn | 1
-it | 1
 ms | 1
