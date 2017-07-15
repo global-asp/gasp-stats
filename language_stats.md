@@ -23,7 +23,7 @@ nl | 8
 hi | 6
 da | 5
 sv | 5
-ja | 4
+ja | 5
 jam | 3
 ne | 3
 uk | 2
