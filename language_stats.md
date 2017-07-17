@@ -14,15 +14,15 @@ gu | 37
 no | 35
 nn | 21
 vi | 20
+de | 17
 aeb | 17
 ru | 16
-de | 16
 tr | 14
 eo | 13
+it | 9
 nl | 8
 hi | 6
 da | 5
-it | 5
 sv | 5
 ja | 5
 jam | 3
