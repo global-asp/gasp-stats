@@ -17,9 +17,9 @@ vi | 20
 de | 17
 aeb | 17
 ru | 16
+it | 16
 tr | 14
 eo | 13
-it | 12
 nl | 8
 hi | 6
 da | 5
