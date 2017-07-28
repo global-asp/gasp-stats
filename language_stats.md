@@ -14,10 +14,10 @@ gu | 37
 no | 35
 nn | 21
 vi | 20
+it | 18
 de | 17
 aeb | 17
 ru | 16
-it | 16
 tr | 14
 eo | 13
 nl | 8
