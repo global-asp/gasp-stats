@@ -12,11 +12,11 @@ ar | 41
 pa | 40
 gu | 37
 no | 35
+it | 23
 nn | 21
 vi | 20
-it | 18
-aeb | 17
 de | 17
+aeb | 17
 ru | 16
 tr | 14
 eo | 13
