@@ -10,9 +10,9 @@ tl | 44
 ko | 42
 ar | 41
 pa | 40
+it | 37
 gu | 37
 no | 35
-it | 35
 nn | 21
 vi | 20
 de | 17
