@@ -28,6 +28,7 @@ sv | 5
 ja | 5
 jam | 3
 ne | 3
-or | 2
 uk | 2
+or | 2
+pl | 1
 ms | 1
