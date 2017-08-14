@@ -8,9 +8,9 @@ fa | 49
 es | 47
 tl | 44
 ko | 42
+it | 41
 ar | 41
 pa | 40
-it | 39
 gu | 37
 no | 35
 nn | 21
