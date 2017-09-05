@@ -3,7 +3,7 @@
 Language | # of Stories
 -------- | ------------
 zh | 78
-yue | 60
+yue | 62
 fa | 49
 es | 47
 tl | 44
