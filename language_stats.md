@@ -11,9 +11,10 @@ ko | 42
 ar | 41
 it | 41
 pa | 40
+no | 37
 gu | 37
-no | 36
 nn | 21
+pl | 20
 vi | 20
 tr | 18
 aeb | 17
@@ -21,7 +22,6 @@ de | 17
 ru | 16
 eo | 13
 nl | 8
-pl | 7
 hi | 6
 bn | 6
 da | 5
