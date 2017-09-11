@@ -13,8 +13,8 @@ it | 41
 pa | 40
 no | 37
 gu | 37
+pl | 28
 nn | 21
-pl | 20
 vi | 20
 tr | 18
 aeb | 17
