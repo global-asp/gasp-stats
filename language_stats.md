@@ -8,8 +8,8 @@ fa | 49
 es | 47
 tl | 44
 ko | 42
-ar | 41
 it | 41
+ar | 41
 pa | 40
 no | 37
 gu | 37
@@ -22,13 +22,14 @@ de | 17
 ru | 16
 eo | 13
 nl | 8
-hi | 6
 bn | 6
-da | 5
+hi | 6
 sv | 5
 ja | 5
+da | 5
 jam | 3
 ne | 3
-or | 2
 uk | 2
+or | 2
 ms | 1
+ca | 1
