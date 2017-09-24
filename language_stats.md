@@ -11,14 +11,14 @@ ko | 42
 it | 41
 ar | 41
 pa | 40
+pl | 38
 no | 37
 gu | 37
-pl | 35
 nn | 21
 vi | 20
 tr | 18
-aeb | 17
 de | 17
+aeb | 17
 ru | 16
 eo | 13
 nl | 8
