@@ -10,8 +10,8 @@ tl | 44
 ko | 42
 ar | 41
 it | 41
+pl | 40
 pa | 40
-pl | 39
 ur | 39
 no | 37
 gu | 37
@@ -23,7 +23,7 @@ aeb | 17
 ru | 16
 eo | 13
 nl | 8
-hi | 6
+hi | 8
 bn | 6
 ja | 6
 sv | 5
