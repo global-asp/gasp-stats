@@ -10,14 +10,14 @@ tl | 44
 ko | 42
 ar | 41
 it | 41
-pl | 40
+pl | 41
 pa | 40
-ur | 39
+ur | 40
 no | 37
 gu | 37
 nn | 21
 vi | 20
-tr | 18
+tr | 19
 de | 18
 aeb | 17
 ru | 16
