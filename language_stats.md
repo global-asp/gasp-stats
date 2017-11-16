@@ -7,12 +7,12 @@ yue | 62
 fa | 49
 es | 47
 tl | 44
+no | 42
 ko | 42
 it | 41
 pl | 41
 ar | 41
 ur | 40
-no | 40
 pa | 40
 gu | 37
 de | 31
@@ -28,10 +28,10 @@ ja | 6
 bn | 6
 sv | 5
 da | 5
-jam | 3
-ne | 3
-uk | 3
 sr | 3
+uk | 3
+ne | 3
+jam | 3
 or | 2
 ms | 1
 id | 1
