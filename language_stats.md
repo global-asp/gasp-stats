@@ -23,8 +23,8 @@ aeb | 17
 ru | 16
 hi | 13
 eo | 13
+ja | 12
 nl | 8
-ja | 6
 bn | 6
 sv | 5
 da | 5
