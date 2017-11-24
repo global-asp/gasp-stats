@@ -7,7 +7,7 @@ yue | 62
 fa | 49
 es | 47
 tl | 44
-no | 42
+no | 43
 ko | 42
 it | 41
 pl | 41
