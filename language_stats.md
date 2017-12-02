@@ -4,10 +4,10 @@ Language | # of Stories
 -------- | ------------
 zh | 78
 yue | 62
+no | 50
 fa | 49
 es | 47
 tl | 44
-no | 43
 ko | 42
 it | 41
 pl | 41
@@ -20,10 +20,10 @@ nn | 21
 vi | 20
 tr | 19
 aeb | 17
+ja | 17
 ru | 16
-hi | 13
 eo | 13
-ja | 12
+hi | 13
 nl | 8
 bn | 6
 sv | 5
