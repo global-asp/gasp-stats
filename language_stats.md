@@ -17,10 +17,10 @@ ur | 40
 pa | 40
 gu | 37
 de | 35
+tr | 24
 vi | 20
-tr | 19
-ja | 17
 aeb | 17
+ja | 17
 ru | 16
 eo | 13
 hi | 13
