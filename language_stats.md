@@ -17,7 +17,7 @@ ur | 40
 pa | 40
 gu | 37
 de | 35
-tr | 24
+tr | 32
 vi | 20
 aeb | 17
 ja | 17
