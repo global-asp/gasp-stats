@@ -15,9 +15,9 @@ ar | 41
 it | 41
 ur | 40
 pa | 40
+tr | 38
 gu | 37
 de | 35
-tr | 34
 vi | 20
 aeb | 17
 ja | 17
