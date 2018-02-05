@@ -14,10 +14,10 @@ pl | 41
 ar | 41
 it | 41
 ur | 40
+tr | 40
 pa | 40
-tr | 38
+de | 38
 gu | 37
-de | 35
 vi | 20
 aeb | 17
 ja | 17
