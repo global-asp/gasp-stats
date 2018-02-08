@@ -9,13 +9,13 @@ fa | 49
 nn | 48
 es | 47
 tl | 44
+de | 42
 ko | 42
-de | 41
 ar | 41
 it | 41
 pl | 41
-pa | 40
 tr | 40
+pa | 40
 ur | 40
 gu | 37
 vi | 20
