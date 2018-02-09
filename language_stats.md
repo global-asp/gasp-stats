@@ -8,8 +8,8 @@ no | 50
 fa | 49
 nn | 48
 es | 47
+de | 44
 tl | 44
-de | 42
 ko | 42
 ar | 41
 it | 41
