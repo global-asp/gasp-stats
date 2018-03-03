@@ -22,9 +22,9 @@ vi | 20
 aeb | 17
 ja | 17
 ru | 16
-hi | 13
+bn | 14
 eo | 13
-bn | 9
+hi | 13
 nl | 8
 sv | 5
 da | 5
