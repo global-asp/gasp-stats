@@ -18,8 +18,8 @@ ur | 40
 tr | 40
 pa | 40
 gu | 37
+bn | 28
 vi | 20
-bn | 20
 aeb | 17
 ja | 17
 ru | 16
