@@ -17,8 +17,8 @@ pl | 41
 ur | 40
 tr | 40
 pa | 40
+bn | 40
 gu | 37
-bn | 36
 vi | 20
 aeb | 17
 ja | 17
