@@ -13,11 +13,11 @@ tl | 44
 ko | 42
 ar | 41
 it | 41
+bn | 41
 pl | 41
 ur | 40
 tr | 40
 pa | 40
-bn | 40
 gu | 37
 vi | 20
 aeb | 17
