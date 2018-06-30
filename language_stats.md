@@ -19,11 +19,11 @@ ur | 40
 pa | 40
 tr | 40
 gu | 37
-ja | 22
+ja | 27
 vi | 20
 aeb | 17
 ru | 16
-hi | 14
+hi | 16
 eo | 13
 nl | 8
 sv | 5
