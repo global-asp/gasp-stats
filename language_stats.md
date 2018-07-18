@@ -26,7 +26,7 @@ hi | 17
 aeb | 17
 ru | 16
 eo | 13
-nl | 8
+nl | 13
 sv | 6
 da | 5
 jam | 3
