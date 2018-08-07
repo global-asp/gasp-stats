@@ -27,11 +27,11 @@ aeb | 17
 hi | 17
 ru | 16
 eo | 13
+jam | 11
 sv | 6
 da | 5
 km | 3
 uk | 3
-jam | 3
 sr | 3
 ne | 3
 or | 2
