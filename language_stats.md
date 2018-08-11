@@ -26,8 +26,8 @@ nl | 20
 aeb | 17
 hi | 17
 ru | 16
+jam | 15
 eo | 13
-jam | 11
 sv | 6
 da | 5
 km | 3
