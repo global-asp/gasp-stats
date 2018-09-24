@@ -21,11 +21,11 @@ tr | 40
 pa | 40
 ur | 40
 gu | 37
-vi | 20
+jam | 28
+hi | 21
 nl | 20
-jam | 18
+vi | 20
 aeb | 17
-hi | 17
 ru | 16
 eo | 13
 sv | 6
