@@ -21,7 +21,7 @@ tr | 40
 pa | 40
 ur | 40
 gu | 37
-jam | 28
+jam | 31
 hi | 21
 nl | 20
 vi | 20
